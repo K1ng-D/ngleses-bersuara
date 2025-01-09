@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-montserrat: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  font-family: var(--font-montserrat);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  background-color: #ffffff;
+}
+
+* {
+  box-sizing: inherit;
+  scroll-behavior: smooth;
+}
