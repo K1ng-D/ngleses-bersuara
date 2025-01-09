@@ -11,8 +11,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Suara Desa",
-  description: "Suara Desa",
+  title: "Ngleses Bersuara",
+  description: "Ngleses Bersuara",
 };
 
 export default function RootLayout({
